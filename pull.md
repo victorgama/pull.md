@@ -15,9 +15,9 @@ work:
 # Victor Gama
 
 I'm Victor Gama, a Software Engineer. You can check more about me on my [website](https://vito.io), or
-by `curling` this url.
+by `curling` this url. Thanks for stopping by. 🌻
 
 ```
-$ curl vito.pull.md/json
 $ curl vito.pull.md
+$ curl vito.pull.md/md
 ```

@@ -5,5 +5,5 @@ Try it out by opening [vito.push.md](https://vito.push.md) or curling (no, serio
 
 ```
 $ curl vito.push.md
-$ curl vito.push.md/json
+$ curl vito.push.md/md
 ```
